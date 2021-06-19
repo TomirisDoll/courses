@@ -1,6 +1,8 @@
 <img src="https://latex.codecogs.com/png.latex?{TomirisDoll}" alt="{mathcode}">
-### Марафон кукла Грета в VK
+# ABTOPABTNE TEKCTNНЫE KYKЛЫ   
+## Macтep-клаcы
 
+[Кукла Рамона](course1)
 
-[Куклаа Рамона](course1)
+[Кукла Хельга](course1)
 

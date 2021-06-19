@@ -1,1 +1,1 @@
-# first corse
+амеба

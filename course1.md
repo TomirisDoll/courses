@@ -42,8 +42,8 @@
 
 Чтобы купить, напишите в удобный для вас мессенджер
 
-  <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://t.me/tomiris_doll');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#01e675;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
-      -webkit-border-radius:50px;">Написать в WhatsApp</div></div> 
+  <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://t.me/tomiris_doll');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#63caff;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
+      -webkit-border-radius:50px;">Написать в telegram</div></div> 
       
  <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://api.whatsapp.com/send?phone=+79146975970>');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#01e675;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
-      -webkit-border-radius:50px;">Написать не в WhatsApp</div></div>
+      -webkit-border-radius:50px;">Написать в WhatsApp</div></div>

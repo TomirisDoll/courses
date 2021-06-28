@@ -1,7 +1,7 @@
 Курс "Ведьмочка Хельга" (или Новогодняя Гномочка)
 <div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width:45%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-bottom:15px;
-5
       -webkit-border-radius:50px;">Весь июль CКИДКА 30%</div>
+      
 Текстильная длинноногая кукла ростом 40 см, кукла сидит сама, не стоит.
 Колени имеют шарнирное крепление с бусинами.
 Голова поворачивается.   

@@ -7,11 +7,11 @@
 Голова поворачивается.   
 Вместо ведьмочки можно сшить новогоднюю гномочку) Просто взять новогодние ткани.  
 Описание под фотографиями. 
-  <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://www.instagram.com/stories/highlights/17876250118962683/?hl=ru');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e2a564;width:45%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
-      -webkit-border-radius:50px;">Ведьмочки сшитые ученицами</div></div> 
+  
 
 ![](HELGA.jpg) ![](helga1.jpg) ![](helga2.jpg) ![](helga3.jpg) ![](helga4.jpg) ![](helga5.jpg)
-
+<div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://www.instagram.com/stories/highlights/17876250118962683/?hl=ru');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e2a564;width:45%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
+      -webkit-border-radius:50px;">Ведьмочки сшитые ученицами</div></div> 
 Что входит в курс:
 
 Тело куклы   

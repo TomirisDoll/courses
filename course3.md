@@ -1,6 +1,6 @@
 Видеозаписи Совместного пошива «Кукла Элли»
 
-<div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width45:%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;
+<div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width25:%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;
       -webkit-border-radius:50px;">Весь июль CКИДКА 30%</div>   
 
 Текстильная кукла ростом 19 см (и 26 см), кукла сидит, в теле песочек для утяжеления, сама не стоит.

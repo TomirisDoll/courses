@@ -1,5 +1,7 @@
 Курс "Ведьмочка Хельга" (или Новогодняя Гномочка)
-
+<div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width:45%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-bottom:15px
+5
+      -webkit-border-radius:50px;">Весь июль CКИДКА 30%</div>
 Текстильная длинноногая кукла ростом 40 см, кукла сидит сама, не стоит.
 Колени имеют шарнирное крепление с бусинами.
 Голова поворачивается.   
@@ -47,9 +49,11 @@
 Все уроки показаны с с нуля, поэтому подходит даже для новичков!   
 В Телеграмм у нас есть чат общения участниц.   
  
-Стоимость курса 1500 руб   
+Обычная стоимость курса 1500 руб.
 
-Чтобы купить, напишите в удобный для вас мессенджер
+Цена со скидкой 1050 руб.
+
+Чтобы купить со скидкой 30%, напишите в удобный для вас мессенджер   
 
   <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://t.me/tomiris_doll');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#63caff;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
       -webkit-border-radius:50px;">Написать в Telegram</div></div> 

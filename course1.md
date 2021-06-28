@@ -9,7 +9,12 @@
 Голова поворачивается.    
 Описание под фотографиями   
 
-![](RAMONA720.jpg) ![](dolls/720ramona1.jpg) ![](dolls/720ramona2.jpg) ![](dolls/720ramona3.jpg) ![](dolls/720ramona4.jpg)  
+![](RAMONA720.jpg) ![](dolls/720ramona1.jpg) ![](dolls/720ramona2.jpg) ![](dolls/720ramona3.jpg) ![](dolls/720ramona4.jpg)
+
+<div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://www.instagram.com/stories/highlights/17936409658554311/?hl=ru');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e2a564;width:45%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
+      -webkit-border-radius:50px;">Рамоны моих учениц</div></div> 
+
+
 
 Что входит в курс:
 

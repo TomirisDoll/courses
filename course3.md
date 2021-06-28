@@ -1,6 +1,6 @@
 Видеозаписи Совместного пошива «Кукла Элли»
 
-<div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width:45%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;
+<div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width:45%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-bottom:15px
       -webkit-border-radius:50px;">Весь июль CКИДКА 30%</div>
 
 

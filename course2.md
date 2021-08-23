@@ -1,12 +1,12 @@
-Курс "Ведьмочка Хельга" (или Новогодняя Гномочка)
-<div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width:100%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-bottom:15px;
-      -webkit-border-radius:50px;">Весь июль CКИДКА 30%</div>
-      
-Текстильная длинноногая кукла ростом 40 см, кукла сидит сама, не стоит.
-Колени имеют шарнирное крепление с бусинами.
-Голова поворачивается.   
+Курс "Ведьмочка Хельга" (или Новогодняя Гномочка).
+
+Я Альфия и уже несколько лет я создаю текстильных кукол.
+
+Приглашаю вас в увлекательный пошив текстильной куколки Ведьмочки (Гномочки)!
+Рост девочки 40 см, у нее в коленках шарнирное крепление с бусинами. И она очень мило сидит.
+Голова поворачивается. Волосы мы делаем из ниток  
 Вместо ведьмочки можно сшить новогоднюю гномочку) Просто взять новогодние ткани.  
-Описание под фотографиями. 
+Что именно входит в этот чудесный пошив, читайте под фото. И посмотрите работы моих учениц! 
   
 
 ![](HELGA.jpg) ![](helga1.jpg) ![](helga2.jpg) ![](helga3.jpg) ![](helga4.jpg) ![](helga5.jpg)
@@ -48,12 +48,11 @@
 
 Все уроки показаны с с нуля, поэтому подходит даже для новичков!   
 В Телеграмм у нас есть чат общения участниц.   
- 
-Обычная стоимость курса 1500 руб.
+Мой инстаграмм @tomiris_doll
 
-Цена со скидкой 1050 руб.
+Стоимость курса 3500 руб.
 
-Чтобы купить со скидкой 30%, напишите в удобный для вас мессенджер   
+Чтобы попасть в этот чудесный курс, напишите в удобный для вас мессенджер   
 
   <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://t.me/tomiris_doll');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#63caff;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
       -webkit-border-radius:50px;">Написать в Telegram</div></div> 

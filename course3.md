@@ -1,11 +1,12 @@
 **Видеозаписи Совместного пошива «Кукла Элли»**
 
-<div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width:100%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-bottom:15px;
-      -webkit-border-radius:50px;">Весь июль CКИДКА 30%</div>
+Я Альфия мастер по текстильным куклам, я создаю куколк с лицами уже несколько лет.
+Мой инстаграм @tomiris_doll
 
+У нас был совместный пошив по вот этой куколке малышке. А сейчас можно приобрести записи пошива по невысокой цене!
 
-Текстильная кукла ростом 19 см (и 26 см), кукла сидит, в теле песочек для утяжеления, сама не стоит.
-Голова поворачивается. Небольшая милая куколка. Описание под фотографиями.   
+Малышка Элли - это текстильная кукла ростом 19 см, также есть второй размер выкройки 24 см, кукла сидит с опорой, в теле песочек для утяжеления, голова у нее поворачивается.  Элли чудесно помещается в руках, и ее можно носить с собой в сумочке как любимого друга. Также ее можно создать в подарок кому то из близких.
+Что же входит в сам пошив, читайте подробнее под фотографиями малышки.
 
 ![](ELLY.png) ![](elly1.png) ![](elly2.png) ![](elly3.png) ![](elly4.png)  
 
@@ -35,11 +36,10 @@
 	приклеивание пучками к голове   
 
 Все уроки показаны с с нуля, поэтому подходит даже для новичков!   
-Обычная цена 1000 руб.   
 
-Цена со скидкой 700 руб.   
+Цена 1000 руб.   
 
-Чтобы купить со скидкой 30%, напишите в удобный для вас мессенджер   
+Чтобы сшить девочку в ладошках, напишите в удобный для вас мессенджер   
 
   <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://t.me/tomiris_doll');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#63caff;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
       -webkit-border-radius:50px;">Написать в Telegram</div></div>   

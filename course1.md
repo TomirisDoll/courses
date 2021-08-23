@@ -1,9 +1,6 @@
 
 ## **Курс «Кукла Рамона»**   
 
-<div onclick="window.open('');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#e42a2ad6;width:100%;text-align:center;color:#ffffff;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-bottom:15px;
-      -webkit-border-radius:50px;">Весь июль CКИДКА 33%</div>
-
 Текстильная кукла ростом 37 см, кукла сидит, в теле песочек для утяжеления, сама не стоит.
 Колени и локти имеют крепление похожее на шарнирное, но не используются бусины.
 Голова поворачивается.    
@@ -49,11 +46,9 @@
 
 Работы моих учениц
 
-#### Обычная цена 2700 руб (с репостом на вашей странице в соц сетях 2500 р)
+#### Цена 4000 руб (с репостом на вашей странице в соц сетях 3700 р)
 
-### Цена со скидкой 1800 руб.
-
-Чтобы купить со скидкой 30%, напишите в удобный для вас мессенджер   
+Чтобы вступить в закрытую группу и в чат участниц напишите в удобный для вас мессенджер   
 
   <div style="display: block; margin-left: auto;  margin-right: auto"><div onclick="window.open('https://t.me/tomiris_doll');" style="cursor:pointer;border-width:0;border-style:solid;background-color:#63caff;width:100%;text-align:center;color:#3a1d03;-moz-border-radius: 30px;vertical-align: middle;height: 32px;padding-top: 10px;margin-top: 8px;margin-bottom: 8px;
       -webkit-border-radius:50px;">Написать в Telegram</div></div>   
